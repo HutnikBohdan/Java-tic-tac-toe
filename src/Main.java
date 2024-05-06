@@ -1,7 +1,7 @@
-import tictactoe.tictactoe;
+import tictactoe.ticktacktoesr;
 
 public class Main {
     public static void main(String[] args){
-        tictactoe.main(args);
+        ticktacktoesr.main(args);
     }
 }
